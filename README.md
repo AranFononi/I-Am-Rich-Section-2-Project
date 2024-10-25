@@ -21,7 +21,7 @@ Through this project, I achieved the following:
 ---
 
 ### Project Preview
-![I Am Rich App Preview](./Documents/Readme.png)
+<img src="./Documents/Readme.png" alt="I Am Rich App Preview" width="300px">
 
 ---
 
